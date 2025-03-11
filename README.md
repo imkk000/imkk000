@@ -1,13 +1,13 @@
-Welcome to My Repository
-===
+# Welcome to My World
 
-I'm **Senior Software Engineer (Golang)** in the world.
+Currently, I am just a **Software Engineer** who interested in IT related field.
 
-I have been experiencing **Go Programming Language, Rust, C#, C++, Docker, K8S**.
+I have been experiencing **Go Programming Language**.
 
-I love coding with my **Neovim** at somewhere into the world.
+I love to code with **Neovim** everyday.
 
-My Hobby:
-- [Leetcode](https://leetcode.com/imkk000)
-- [Medium](https://medium.com/@imkk000)
-- [Coursera](https://www.coursera.org/user/dd6c531a628fd3e53ef42e58458f366d)
+## Also Me
+
+* [Leetcode](https://leetcode.com/imkk000)
+* [Medium](https://medium.com/@imkk000)
+* [Coursera](https://www.coursera.org/user/dd6c531a628fd3e53ef42e58458f366d)
