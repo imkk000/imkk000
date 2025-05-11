@@ -12,3 +12,7 @@ I love to code with **Neovim** everyday.
 * [Leetcode](https://leetcode.com/imkk000)
 * [Medium](https://medium.com/@imkk000)
 * [Coursera](https://www.coursera.org/user/dd6c531a628fd3e53ef42e58458f366d)
+
+![Tmux Screenshot](/screenshot/tmux.png)
+
+
