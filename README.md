@@ -10,7 +10,7 @@ I love to code with **Neovim, Tmux, Ghostty**.
 
 I choose to use **MacOS and Xubuntu** as main operating systems.
 
-_I share knowledge freely, not only to strengthen my own understanding but to illuminate paths for others. In teaching, we learn twice._
+_I share knowledge freely, not only to strengthen my own understanding but to illuminate paths for others. In teaching, I learn twice._
 
 ## Also Me
 
