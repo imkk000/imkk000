@@ -1,14 +1,10 @@
 # Welcome Nerd
 
-Currently, I am just a **Software Engineer** who interested in IT related field.
+I am just a **Software Engineer** who interested in IT related field.
 
-I am permanently working full time in Bangkok, Thailand.
+I love to code with my **Arch Linux, Neovim, Tmux, Ghostty**.
 
-I have been experiencing **Go Programming Language** for 7+ years.
-
-I love to code with **Neovim, Tmux, Ghostty**.
-
-I choose to use **MacOS and ArchLinux** as main operating systems.
+I have been experiencing **Go Programming Language** for 8+ years.
 
 _I share knowledge freely, not only to strengthen my own understanding but to illuminate paths for others. In teaching, I learn twice._
 
@@ -18,7 +14,3 @@ _I share knowledge freely, not only to strengthen my own understanding but to il
 <a href="https://leetcode.com/imkk000">![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)</a>
 <a href="https://medium.com/@imkk000">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://www.coursera.org/user/dd6c531a628fd3e53ef42e58458f366d">![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a>
-
-## Preview
-
-![Tmux Screenshot](screenshot/desktop.png)
